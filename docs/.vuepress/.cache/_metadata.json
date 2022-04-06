@@ -1,0 +1,36 @@
+{
+  "hash": "07910c79",
+  "browserHash": "e453f8ad",
+  "optimized": {
+    "vue": {
+      "file": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/docs/.vuepress/.cache/vue.js",
+      "src": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/docs/.vuepress/.cache/vue-router.js",
+      "src": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vue/devtools-api": {
+      "file": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/docs/.vuepress/.cache/@vue_devtools-api.js",
+      "src": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/docs/.vuepress/.cache/nprogress.js",
+      "src": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "@vuepress/shared": {
+      "file": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "E:/ow-project/myProject/ohhh/beggar/src/vue/blog/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}
