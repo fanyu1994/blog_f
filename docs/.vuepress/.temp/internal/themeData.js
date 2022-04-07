@@ -16,7 +16,21 @@ export const themeData = {
       "link": "/"
     },
     {
-      "text": "高质量内容",
+      "text": "ES6",
+      "link": "/high-ctx",
+      "children": [
+        {
+          "text": "高质量内容1",
+          "link": "/high-ctx/test1.html"
+        },
+        {
+          "text": "高质量内容2",
+          "link": "/high-ctx/test2.html"
+        }
+      ]
+    },
+    {
+      "text": "ES7",
       "link": "/high-ctx",
       "children": [
         {
@@ -56,4 +70,17 @@ export const themeData = {
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode",
   "toggleSidebar": "toggle sidebar"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }

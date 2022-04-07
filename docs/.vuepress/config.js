@@ -26,7 +26,21 @@ module.exports = {
         link: '/'
       },
       {
-        text: '高质量内容',
+        text: 'ES6',
+        link: '/high-ctx',
+        children: [
+          {
+            text: '高质量内容1',
+            link: '/high-ctx/test1.html',
+          },
+          {
+            text: '高质量内容2',
+            link: '/high-ctx/test2.html',
+          }
+        ]
+      },
+      {
+        text: 'ES7',
         link: '/high-ctx',
         children: [
           {
