@@ -34,7 +34,7 @@ module.exports = {
             link: '/high-ctx/test1.html',
           },
           {
-            text: '高质量内容2',
+            text: '高质量内容222',
             link: '/high-ctx/test2.html',
           }
         ]
