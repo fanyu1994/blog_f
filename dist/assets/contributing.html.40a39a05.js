@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as n,c as r,a as c,w as a,b as _}from"./app.7710e9ca.js";const s={},i=_("\u9996\u9875");function l(u,f){const e=o("RouterLink");return n(),r("p",null,[c(e,{to:"/"},{default:a(()=>[i]),_:1})])}var d=t(s,[["render",l],["__file","contributing.html.vue"]]);export{d as default};
