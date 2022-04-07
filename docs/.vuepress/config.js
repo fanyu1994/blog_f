@@ -30,11 +30,11 @@ module.exports = {
         link: '/high-ctx',
         children: [
           {
-            text: '高质量内容1111',
+            text: 'ES6ES6ES6',
             link: '/high-ctx/test1.html',
           },
           {
-            text: '高质量内容222',
+            text: 'ES6ES6ES6',
             link: '/high-ctx/test2.html',
           }
         ]
