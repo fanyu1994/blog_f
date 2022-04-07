@@ -1,0 +1,1 @@
+const t={key:"v-6ce48554",path:"/contributing.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164921418e4,contributors:[{name:"fanyu",email:"1025153697@qq.com",commits:1}]},filePathRelative:"contributing.md"};export{t as data};
